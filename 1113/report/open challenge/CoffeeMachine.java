@@ -158,3 +158,4 @@ public class CoffeeMachine extends JFrame {
     }
 }
 // 로컬 커밋 1
+// 로컬 커밋 2
